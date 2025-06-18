@@ -12,6 +12,8 @@ Práce se zabývá vytvořením player interfacu pro stolní hru Bang!, který o
 
 Tento nápad jsem si vybral, protože mi nevyhovoval způsob, jakým se při běžném hraní ukládají herní kartičky a kostky - často jsou rozházené, nepřehledné a zabírají zbytečně moc místa na stole. Chtěl jsem vytvořit řešení, které bude kompaktní, funkční a usnadní orientaci ve hře pro hráče.
 
+V repozitáři lze dále nalézt .f3d soubor obsahující celý Autodesk Fusion projekt, na kterém jsem pracoval.
+
 
 ## Použité technologie
 
