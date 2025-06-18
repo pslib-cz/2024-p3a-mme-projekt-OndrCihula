@@ -35,15 +35,15 @@ V repozitáři lze dále nalézt .f3d soubor obsahující celý Autodesk Fusion 
 
 ![Image](https://github.com/user-attachments/assets/b4092de8-9938-42fd-9b0e-5c50bb1fe61e)
 
-### Tvorba hlavního těla (boční skica)
+### Tvorba hlavního těla (boční pohled)
 
 ![Image](https://github.com/user-attachments/assets/e15a46bb-85cd-4d8c-abb5-104b3641424c)
 
-### Tvorba slotů pro karty a životy - nakloněná rovina hlavního těla
+### Tvorba slotů pro karty a životy (pohled na nakloněnou rovinu hlavního těla)
 
 ![Image](https://github.com/user-attachments/assets/8741dcc6-4b53-47fc-a76e-2c1fe124bfea)
 
-### Tvorba slotů pro kostky - horní rovina hlavního těla
+### Tvorba slotů pro kostky (pohled na horní rovinu hlavního těla)
 
 ![Image](https://github.com/user-attachments/assets/585eec94-ed7d-4a77-9d65-c760f9703262)
 
