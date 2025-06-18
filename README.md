@@ -23,7 +23,7 @@ V repozitáři lze dále nalézt .f3d soubor obsahující celý Autodesk Fusion 
 - PLA filament, průměr 1.75mm
 
 
-## Odhad ceny a času pro tvorbu modelu
+## Odhad ceny a času pro tisk modelu
 
 - Cena: ~100 Kč
 - Čas tisku: ~9 hodin
